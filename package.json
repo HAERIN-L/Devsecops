@@ -41,7 +41,7 @@
     "core-js": "^2.2.1",
     "coveralls": "^2.11.6",
     "del": "^2.0.2",
-    "derequire": "^2.0.3",
+    "derequire": "^2.1.1",
     "eslint": "^3.10.2",
     "eslint-config-fbjs": "^1.1.1",
     "eslint-plugin-babel": "^3.3.0",
